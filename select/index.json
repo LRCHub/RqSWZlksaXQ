@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "HAZE",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-11T14:24:29.620506Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lavender Haze",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Lavender_Haze_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sinners, Saints and Fools (In The Canyon Haze)",
+      "artist": "Brandi Carlile",
+      "has_synced": true,
+      "path": "select/02_Sinners,_Saints_and_Fools_(In_The_Canyon_Haze)_Brandi_Carlile.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Haze.Boogie.Life",
+      "artist": "Mykki Blanco",
+      "has_synced": false,
+      "path": "select/03_Haze.Boogie.Life_Mykki_Blanco.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey Joe / Purple Haze / Voodoo Chile",
+      "artist": "Soft Cell",
+      "has_synced": false,
+      "path": "select/04_Hey_Joe___Purple_Haze___Voodoo_Chile_Soft_Cell.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Joe \u0000 Purple Haze \u0000 Voodoo Chile",
+      "artist": "Soft Cell",
+      "has_synced": false,
+      "path": "select/05_Hey_Joe_\u0000_Purple_Haze_\u0000_Voodoo_Chile_Soft_Cell.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heat Haze",
+      "artist": "Aphrodite",
+      "has_synced": false,
+      "path": "select/06_Heat_Haze_Aphrodite.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Purple Haze",
+      "artist": "Groove Armada",
+      "has_synced": false,
+      "path": "select/07_Purple_Haze_Groove_Armada.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Purple Haze",
+      "artist": "Jimi Hendrix",
+      "has_synced": true,
+      "path": "select/08_Purple_Haze_Jimi_Hendrix.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Freestyle (feat. Angel Haze)",
+      "artist": "Bassnectar",
+      "has_synced": false,
+      "path": "select/09_Freestyle_(feat._Angel_Haze)_Bassnectar.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dethroned Under a Funeral Haze",
+      "artist": "Perturbator",
+      "has_synced": false,
+      "path": "select/10_Dethroned_Under_a_Funeral_Haze_Perturbator.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Haze of Love",
+      "artist": "Cake",
+      "has_synced": true,
+      "path": "select/11_Haze_of_Love_Cake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Purple Haze",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/12_Purple_Haze_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Welcome to Purple Haze (Skit)",
+      "artist": "Cam'ron",
+      "has_synced": false,
+      "path": "select/13_Welcome_to_Purple_Haze_(Skit)_Cam'ron.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Haze Me",
+      "artist": "The Reign of Kindo",
+      "has_synced": true,
+      "path": "select/14_Don't_Haze_Me_The_Reign_of_Kindo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Haze",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/15_Haze_Europe.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Purple Haze",
+      "artist": "Winger",
+      "has_synced": true,
+      "path": "select/16_Purple_Haze_Winger.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Haze",
+      "artist": "Electronic",
+      "has_synced": true,
+      "path": "select/17_Haze_Electronic.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Purple Haze (Unreleased) - Virgin Radio Version",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/18_Purple_Haze_(Unreleased)_-_Virgin_Radio_Version_The_Cure.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HAZE",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_HAZE_KMNZ.txt"
+    }
+  ]
+}
